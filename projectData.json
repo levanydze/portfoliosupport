@@ -1,6 +1,6 @@
 [
   {
-    "id": -1,
+    "id": 1,
     "date": "January",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/walkstick.jpg?raw=true",
     "title": "Injury while snowboarding",
@@ -24,7 +24,7 @@
     "someText2": "June is my favorite time. As my knee improved, so did the weather. I decided to travel and journeyed from Stockholm to Barcelona and back with my campervan, an incredibly interesting and unforgettable experience that I believe everyone should try. I explored 12 countries on this trip, covering 8300km with no plan, just like a bird. After a month, I returned to my coding and continued developing."
   },
   {
-    "id": 1,
+    "id": 2,
     "date": "February",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/sketch.jpg?raw=true",
     "title": "First Steps",
@@ -47,7 +47,7 @@
     "detDescription": "After one month of studying and practicing smaller projects, I tried to create a slightly more complex web page design to ensure I knew styling well. I made an exact copy of the first page of www.sketch.com."
   },
   {
-    "id": 2,
+    "id": 3,
     "date": "March",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/restaurant1.jpg?raw=true",
     "title": "Practice",
@@ -70,7 +70,7 @@
     "detDescription": "It's worth seeing how I created dynamic components (footer and header) using vanilla JS before I even heard about React and how it works. My love for food has inspired me to consider starting my own restaurant in the future. Therefore, I decided to improve my skills by practicing on a restaurant web page."
   },
   {
-    "id": 3,
+    "id": 4,
     "date": "April - May",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/todo.jpg?raw=true",
     "title": "JavaScript",
@@ -93,7 +93,7 @@
     "detDescription": "During that time, I found a cool project: a to-do list. It matched my skill level, and I spent a lot of time practicing with JavaScript from morning to evening, trying different features."
   },
   {
-    "id": 4,
+    "id": 5,
     "date": "June",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/camper.jpg?raw=true",
     "title": "Euro Trip",
@@ -117,7 +117,7 @@
     "someText2": "June is my favorite time. As my knee improved, so did the weather. I decided to travel and journeyed from Stockholm to Barcelona and back with my campervan, an incredibly interesting and unforgettable experience that I believe everyone should try. I explored 12 countries on this trip, covering 8300km with no plan, just like a bird. After a month, I returned to my coding and continued developing."
   },
   {
-    "id": 5,
+    "id": 6,
     "date": "July",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/delicious.jpg?raw=true",
     "title": "Time for React",
@@ -140,7 +140,7 @@
     "detDescription": "Firstly, I must say I loved React, especially after learning JS. I worked on several projects using React, and one of them showcases fetching data for delicious recipes and dynamic routes."
   },
   {
-    "id": 6,
+    "id": 7,
     "date": "August",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/reactchacha.jpg?raw=true",
     "title": "Restaurant Project in React",
@@ -163,7 +163,7 @@
     "detDescription": "Since I started learning JS, I've wanted to add items to the checkout section. Eventually, I used the same design for the webpage to save time because designing takes the most time, especially when I don't have anything prepared. In that project, you can find data fetching, useContext, and some other functionalities."
   },
   {
-    "id": 7,
+    "id": 8,
     "date": "September",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/artofl.jpg?raw=true",
     "title": "Now, Let's Get Serious",
@@ -187,7 +187,7 @@
     "someText": "I've been into photography since 2012, and throughout this time, I've wanted to have my own webpage where I can change things according to my vision. I tried different platforms, but they didn't give me what I wanted. So, I always had this desire to learn web development, even though I initially thought coding was boring. Turns out, I was mistaken!"
   },
   {
-    "id": 10,
+    "id": 9,
     "date": "December",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/LEVANIDZE.jpg?raw=true",
     "title": "NextJs",
