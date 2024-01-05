@@ -163,6 +163,7 @@
   },
   {
     "id": 8,
+    "important" : true,
     "date": "September",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/artofl.jpg?raw=true",
     "title": "Now, Let's Get Serious",
@@ -187,6 +188,7 @@
   },
   {
     "id": 9,
+    "important" : true,
     "date": "December",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/LEVANIDZE.jpg?raw=true",
     "title": "NextJs",
