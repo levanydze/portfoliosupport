@@ -1,7 +1,7 @@
 [
   {
-    "slug": "1",
-    "date": "January",
+    "id": 1,
+    "slug": "January",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/walkstick.jpg?raw=true",
     "title": "Injury while snowboarding",
     "description": "Lack of powder snow and frozen slopes ended with me having an injured knee.",
@@ -23,8 +23,8 @@
     "someText": "I love nature, especially mountains, in any season. I am from Georgia, where we experience all four seasons equally. I use to visit my country every year, where my friends and family are waiting for me. Normally, we expect lots of powder snow there, so I can float on the snow just like in clouds, but not that year. All mountains of Europe were dry, and there was no snow as usual. So, frozen slopes and the lack of powder were some of the biggest reasons for my injury."
   },
   {
-    "slug": "2",
-    "date": "February",
+    "id": 2,
+    "slug": "February",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/sketch.jpg?raw=true",
     "title": "First Steps",
     "description": "Dealing with a knee injury and the subsequent actions I took since January.",
@@ -46,8 +46,8 @@
     "detDescription": "After one month of studying and practicing smaller projects, I tried to create a slightly more complex web page design to ensure I knew styling well. I made an exact copy of the first page of www.sketch.com."
   },
   {
-    "slug": 3,
-    "date": "March",
+    "id": 3,
+    "slug": "March",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/restaurant1.jpg?raw=true",
     "title": "Practice",
     "description": "HTML, CSS, SASS, and some JS.",
