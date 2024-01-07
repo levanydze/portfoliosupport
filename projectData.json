@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "slug": "January",
+    "date": "January",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/walkstick.jpg?raw=true",
     "title": "Injury while snowboarding",
     "description": "Lack of powder snow and frozen slopes ended with me having an injured knee.",
@@ -24,7 +24,7 @@
   },
   {
     "id": 2,
-    "slug": "February",
+    "date": "February",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/sketch.jpg?raw=true",
     "title": "First Steps",
     "description": "Dealing with a knee injury and the subsequent actions I took since January.",
@@ -47,7 +47,7 @@
   },
   {
     "id": 3,
-    "slug": "March",
+    "date": "March",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/restaurant1.jpg?raw=true",
     "title": "Practice",
     "description": "HTML, CSS, SASS, and some JS.",
@@ -163,7 +163,7 @@
   },
   {
     "id": 8,
-    "important" : true,
+    "important": true,
     "date": "September",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/artofl.jpg?raw=true",
     "title": "Now, Let's Get Serious",
@@ -188,10 +188,10 @@
   },
   {
     "id": 9,
-    "important" : true,
+    "important": true,
     "date": "December",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/LEVANIDZE.jpg?raw=true",
-    "title": "NextJs",
+    "title": "NextJs Portfolio",
     "description": "Looking Ahead to a Career in Web Development",
     "study": true,
     "youtube": false,
@@ -208,6 +208,6 @@
     "github": "https://github.com/levanydze/next-portfolio",
     "projectWeb": "https://levanidze.com",
     "gitIcon": "https://github.com/levanydze/portfoliosupport/blob/main/git.png?raw=true",
-    "detDescription": "Simplicity of file-based and dynamic routing compared to native React. The application is stored on GitHub and deployed by Vercel. In this project, you find how I fetch server-side data. The most interesting part of the project is the Projects section, where Next.js provides dynamic routing with fetched data information through a JSON file stored on a separate GitHub repository. I also focused on improving the organization of my styling compared to previous projects. It's worth mentioning that my solid knowledge of Photoshop is helping to make my portfolio design better."
+    "detDescription": "Loved NextJs's simplicity of file-based and dynamic routing compared to native React. The application is stored on GitHub and deployed by Vercel. In this project, you find how I fetch server-side data. The most interesting part of the project is the 'Projects' section, where Next.js provides dynamic routing with fetched data information through a JSON file stored on a separate GitHub repository. I also focused on improving the organization of my styling compared to previous projects. It's worth mentioning that my solid knowledge of Photoshop is helping to make my portfolio design better."
   }
 ]
