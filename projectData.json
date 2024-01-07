@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "slug": 1,
     "date": "January",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/walkstick.jpg?raw=true",
     "title": "Injury while snowboarding",
@@ -23,7 +23,7 @@
     "someText": "I love nature, especially mountains, in any season. I am from Georgia, where we experience all four seasons equally. I use to visit my country every year, where my friends and family are waiting for me. Normally, we expect lots of powder snow there, so I can float on the snow just like in clouds, but not that year. All mountains of Europe were dry, and there was no snow as usual. So, frozen slopes and the lack of powder were some of the biggest reasons for my injury."
   },
   {
-    "id": 2,
+    "slug": 2,
     "date": "February",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/sketch.jpg?raw=true",
     "title": "First Steps",
@@ -46,7 +46,7 @@
     "detDescription": "After one month of studying and practicing smaller projects, I tried to create a slightly more complex web page design to ensure I knew styling well. I made an exact copy of the first page of www.sketch.com."
   },
   {
-    "id": 3,
+    "slug": 3,
     "date": "March",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/restaurant1.jpg?raw=true",
     "title": "Practice",
