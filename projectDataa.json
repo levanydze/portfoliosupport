@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "slug": "January",
+    "date": "January",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/walkstick.jpg?raw=true",
     "title": "Injury while snowboarding",
     "description": "Lack of powder snow and frozen slopes ended with me having an injured knee.",
@@ -24,7 +24,7 @@
   },
   {
     "id": 2,
-    "slug": "February",
+    "date": "February",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/sketch.jpg?raw=true",
     "title": "First Steps",
     "description": "Dealing with a knee injury and the subsequent actions I took since January.",
@@ -47,7 +47,7 @@
   },
   {
     "id": 3,
-    "slug": "March",
+    "date": "March",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/restaurant1.jpg?raw=true",
     "title": "Practice",
     "description": "HTML, CSS, SASS, and some JS.",
