@@ -163,7 +163,7 @@
   },
   {
     "id": 8,
-    "important": true,
+    "important": false,
     "date": "September 2023",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/artofl.jpg?raw=true",
     "title": "Now, Let's Get Serious",
@@ -188,7 +188,7 @@
   },
   {
     "id": 9,
-    "important": true,
+    "important": false,
     "date": "December 2023",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/LEVANIDZE.jpg?raw=true",
     "title": "NextJs Portfolio",
@@ -212,6 +212,7 @@
   },
   {
     "id": 10,
+    "best": true,
     "important": true,
     "date": "January 2024",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/vuvuleo.png?raw=true",
