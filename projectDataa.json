@@ -164,7 +164,7 @@
   {
     "id": 8,
     "important": true,
-    "date": "September",
+    "date": "September 2023",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/artofl.jpg?raw=true",
     "title": "Now, Let's Get Serious",
     "description": "Like every photographer, I need my own webpage too.",
@@ -189,9 +189,9 @@
   {
     "id": 9,
     "important": true,
-    "date": "December",
+    "date": "December 2023",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/LEVANIDZE.jpg?raw=true",
-    "title": "NextJs",
+    "title": "NextJs Portfolio",
     "description": "Looking Ahead to a Career in Web Development",
     "study": true,
     "youtube": false,
@@ -208,6 +208,30 @@
     "github": "https://github.com/levanydze/next-portfolio",
     "projectWeb": "https://levanidze.com",
     "gitIcon": "https://github.com/levanydze/portfoliosupport/blob/main/git.png?raw=true",
-    "detDescription": "Simplicity of file-based and dynamic routing compared to native React. The application is stored on GitHub and deployed by Vercel. In this project, you find how I fetch server-side data. The most interesting part of the project is the 'Projects' section, where Next.js provides dynamic routing with fetched data information through a JSON file stored on a separate GitHub repository. I also focused on improving the organization of my styling compared to previous projects. It's worth mentioning that my solid knowledge of Photoshop is helping to make my portfolio design better."
+    "detDescription": "Loved NextJs's simplicity of file-based and dynamic routing compared to native React. The application is stored on GitHub and deployed by Vercel. In this project, you find how I fetch server-side data. The most interesting part of the project is the 'Projects' section, where Next.js provides dynamic routing with fetched data information through a JSON file stored on a separate GitHub repository. I also focused on improving the organization of my styling compared to previous projects. It's worth mentioning that my solid knowledge of Photoshop is helping to make my portfolio design better."
+  },
+  {
+    "id": 10,
+    "important": true,
+    "date": "January 2024",
+    "image": "https://github.com/levanydze/portfoliosupport/blob/main/vuvuleo.png?raw=true",
+    "title": "Daily Improvement in Action",
+    "description": "Continuously striving for improvement and building self-confidence",
+    "study": false,
+    "youtube": false,
+    "udemy": false,
+    "byEd": false,
+    "youtubeIcon": "https://github.com/levanydze/portfoliosupport/blob/main/yt.png?raw=true",
+    "udemyIcon": "https://github.com/levanydze/portfoliosupport/blob/main/udemy.png?raw=true",
+    "byEdIcon": "https://github.com/levanydze/portfoliosupport/blob/main/byEd.png?raw=true",
+    "course": "Next.js 14 & React - The Complete Guide",
+    "courseDesc": "Having a positive experience with Udemy made me appreciate the platform. Considering its power and popularity, I decided to explore Next.js. I enrolled in a Next.js course with the intention of building my own portfolio.",
+    "courseLink": "https://www.udemy.com/course/nextjs-react-the-complete-guide/",
+    "project": true,
+    "projectTitle": "Restaurant Web Project",
+    "github": "https://github.com/levanydze/restaurant2024",
+    "projectWeb": "https://vuvuleo.com",
+    "gitIcon": "https://github.com/levanydze/portfoliosupport/blob/main/git.png?raw=true",
+    "detDescription": "I created a restaurant project entirely on my own, without following any tutorials. While I took design inspiration from https://cafe-template.webflow.io all the coding was done by me. This project helped me improve my coding skills, especially in making code more readable and dynamic. Using local and fetching JSON files, I can now create different restaurant projects in under an hour. Each project shows how much I have improved, and I feel more confident than ever."
   }
 ]
