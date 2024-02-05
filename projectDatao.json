@@ -213,7 +213,7 @@
   {
     "id": 10,
     "best": true,
-    "important": true,
+    "important": false,
     "date": "January 2024",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/vuvuleo.png?raw=true",
     "title": "Daily Improvement in Action",
