@@ -250,7 +250,7 @@
     "youtubeIcon": "https://github.com/levanydze/portfoliosupport/blob/main/yt.png?raw=true",
     "udemyIcon": "https://github.com/levanydze/portfoliosupport/blob/main/udemy.png?raw=true",
     "byEdIcon": "https://github.com/levanydze/portfoliosupport/blob/main/byEd.png?raw=true",
-    "course": "Next.js 14 & React - The Complete Guide",
+    "course": "React & TypeScript - The Practical Guide",
     "courseDesc": "I wanted to get better at SEO, and I learned that using TypeScript could help make things easier. Since SEO is really important for potential employers, I decided to take a course on Udemy to improve myself.",
     "courseLink": "https://www.udemy.com/course/react-typescript-the-practical-guide",
     "project": true,
