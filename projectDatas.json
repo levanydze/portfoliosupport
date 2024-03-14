@@ -240,7 +240,7 @@
     "important": true,
     "best": true,
     "date": "Current Project",
-    "image": "https://github.com/levanydze/portfoliosupport/blob/main/constr.png?raw=true",
+    "image": "https://github.com/levanydze/portfoliosupport/blob/main/constr2.png?raw=true",
     "title": "Typescript",
     "description": "Typescript made everithing smoother ",
     "study": true,
@@ -255,7 +255,7 @@
     "courseLink": "https://www.udemy.com/course/react-typescript-the-practical-guide",
     "project": true,
     "projectTitle": "Preparation For Various Kind of Webpages",
-    "github": "https://github.com/levanydze/constr2",
+    "github": "https://github.com/levanydze/constr",
     "projectWeb": "https://constr-rouge.vercel.app/",
     "gitIcon": "https://github.com/levanydze/portfoliosupport/blob/main/git.png?raw=true",
     "detDescription": "I started to use TypeScript in this project and found it pretty easy to convert my JSX components into TSX. This sped up the web building process. While reusing components, I felt that I was writing reusable code well, and I even improved it. Now, it's almost like copy-pasting. I also want to mention that using Next.js docs became clearer and easier to follow, and with Framer Motion, I created some cool stuff quickly. In terms of SEO, I've implemented dynamic and static titles in the project. I'm mapping a JSON file onto the /MENU, so when you click each item, you get a (metadata) title based on the food name. So far, this project isn't a specific webpage but more like my own reusable library with different headers, navigations, and more. I'll decide how it should look later on."
