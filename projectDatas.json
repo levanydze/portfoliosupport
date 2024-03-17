@@ -231,7 +231,7 @@
     "project": true,
     "projectTitle": "Restaurant Web Project",
     "github": "https://github.com/levanydze/restaurant2024",
-    "projectWeb": "https://vuvuleo.com",
+    "projectWeb": "https://restaurant2024.vercel.app/",
     "gitIcon": "https://github.com/levanydze/portfoliosupport/blob/main/git.png?raw=true",
     "detDescription": "I created a restaurant project entirely on my own, without following any tutorials. While I took design inspiration from https://cafe-template.webflow.io all the coding was done by me. This project helped me improve my coding skills, especially in making code more readable and dynamic. Using local and fetching JSON files, I can now create different restaurant projects in a very short time. Each project shows how much I have improved, looking back at past projects has always been confusing, but with this one, everything is so clear and it makes me feel more confident. The project is stored on GitHub and deployed on Vercel"
   },
@@ -256,7 +256,7 @@
     "project": true,
     "projectTitle": "Preparation For Various Kind of Webpages",
     "github": "https://github.com/levanydze/constr",
-    "projectWeb": "https://constr-rouge.vercel.app/",
+    "projectWeb": "www.vuvuleo.com",
     "gitIcon": "https://github.com/levanydze/portfoliosupport/blob/main/git.png?raw=true",
     "detDescription": "I started to use TypeScript in this project and found it pretty easy to convert my JSX components into TSX. This sped up the web building process. While reusing components, I felt that I was writing reusable code well, and I even improved it. Now, it's almost like copy-pasting. I also want to mention that using Next.js docs became clearer and easier to follow, and with Framer Motion, I created some cool stuff quickly. In terms of SEO, I've implemented dynamic and static titles in the project. I'm mapping a JSON file onto the /MENU, so when you click each item, you get a (metadata) title based on the food name. So far, this project isn't a specific webpage but more like my own reusable library with different headers, navigations, and more. I'll decide how it should look later on."
   }
