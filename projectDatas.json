@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "date": "January",
+    "date": "January 2023",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/walkstick.jpg?raw=true",
     "title": "Injury while snowboarding",
     "description": "Lack of powder snow and frozen slopes ended with me having an injured knee.",
@@ -24,7 +24,7 @@
   },
   {
     "id": 2,
-    "date": "February",
+    "date": "February 2023",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/sketch.jpg?raw=true",
     "title": "First Steps",
     "description": "Dealing with a knee injury and the subsequent actions I took since January.",
@@ -47,7 +47,7 @@
   },
   {
     "id": 3,
-    "date": "March",
+    "date": "March 2023",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/restaurant1.jpg?raw=true",
     "title": "Practice",
     "description": "HTML, CSS, SASS, and some JS.",
@@ -70,7 +70,7 @@
   },
   {
     "id": 4,
-    "date": "April - May",
+    "date": "May 2023",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/todo.jpg?raw=true",
     "title": "JavaScript",
     "description": "Learning JavaScript quickly and smoothly.",
@@ -93,7 +93,7 @@
   },
   {
     "id": 5,
-    "date": "June",
+    "date": "June 2023",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/camper.jpg?raw=true",
     "title": "Euro Trip",
     "description": "At some point, I realized I needed a break.",
@@ -117,7 +117,7 @@
   },
   {
     "id": 6,
-    "date": "July",
+    "date": "July 2023",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/delicious.jpg?raw=true",
     "title": "Time for React",
     "description": "Got a suggestion to switch from vanilla JS to React and really liked that advice.",
@@ -140,7 +140,7 @@
   },
   {
     "id": 7,
-    "date": "August",
+    "date": "August 2023",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/reactchacha.jpg?raw=true",
     "title": "Restaurant Project in React",
     "description": "Fetching data and creating a checkout section using useContext.",
