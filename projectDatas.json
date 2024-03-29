@@ -282,7 +282,7 @@
     "project": true,
     "projectTitle": "First Touch With Back-end",
     "github": "https://github.com/levanydze/inpts",
-    "projectWeb": "https://inpts.vercel.app/post",
+    "projectWeb": "https://inpts.vercel.app",
     "gitIcon": "https://github.com/levanydze/portfoliosupport/blob/main/git.png?raw=true",
     "detDescription": "App is open for everyone you can create new product, update, disable/enable. It is fun to try out, just keep in mind that you need to use only GitHub stored images for JPEG or PNG files. Otherwise, Next.js needs to allow cross-web data. So in overall, this app makes it easy to collaborate with restaurants and more, as long as they have image URLs"
   }
