@@ -237,7 +237,7 @@
   },
   {
     "id": 11,
-    "important": false,
+    "important": true,
     "best": true,
     "date": "February 2024",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/constr2.png?raw=true",
