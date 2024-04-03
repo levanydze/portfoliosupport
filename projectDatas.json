@@ -284,6 +284,6 @@
     "github": "https://github.com/levanydze/inpts",
     "projectWeb": "https://inpts.vercel.app",
     "gitIcon": "https://github.com/levanydze/portfoliosupport/blob/main/git.png?raw=true",
-    "detDescription": "App connected to vuvuleo.com  and it is open for everyone if you sign in with google email, you can create new product, update, disable/enable. It is fun to try out, just keep in mind that you need to use only GitHub stored files. after editing or adding any menu items it will take a while to update the menu in vuvuleo.com and right now I am working on instant  revalidation "
+    "detDescription": "App is connected to vuvuleo.com  and it is open for everyone if you sign in with google email, you can create new product, update, disable/enable. It is fun to try out, just keep in mind that you need to use only GitHub stored image URLs. after editing or adding any menu items it will take a while to update the menu in vuvuleo.com and right now I am working on instant  revalidation "
   }
 ]
