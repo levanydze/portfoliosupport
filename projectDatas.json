@@ -237,8 +237,8 @@
   },
   {
     "id": 11,
-    "important": true,
-    "best": false,
+    "important": false,
+    "best": true,
     "date": "February 2024",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/constr2.png?raw=true",
     "title": "<--------<< connected to Dashboard",
