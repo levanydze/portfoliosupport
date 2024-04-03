@@ -241,7 +241,7 @@
     "best": false,
     "date": "February 2024",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/constr2.png?raw=true",
-    "title": "Typescript",
+    "title": "<---<< This is connected to Dashboard.",
     "description": "Typescript made everithing smoother ",
     "study": true,
     "youtube": false,
@@ -267,7 +267,7 @@
     "best": true,
     "date": "March 2024",
     "image": "https://github.com/levanydze/portfoliosupport/blob/main/backnd.png?raw=true",
-    "title": "Back-end, Restaurant Dashboard",
+    "title": "Back-end. Connected to restaurant >>--->",
     "description": "With this app, it's easy to add new products to the menu, edit/update existing ones, or temporarily disable/enable them",
     "study": false,
     "youtube": false,
@@ -284,6 +284,6 @@
     "github": "https://github.com/levanydze/inpts",
     "projectWeb": "https://inpts.vercel.app",
     "gitIcon": "https://github.com/levanydze/portfoliosupport/blob/main/git.png?raw=true",
-    "detDescription": "App is open for everyone you can create new product, update, disable/enable. It is fun to try out, just keep in mind that you need to use only GitHub stored images for JPEG or PNG files. Otherwise, Next.js needs to allow cross-web data. So in overall, this app makes it easy to collaborate with restaurants and more, as long as they have image URLs"
+    "detDescription": "App connected to vuvuleo.com  and it is open for everyone if you sign in with google email, you can create new product, update, disable/enable. It is fun to try out, just keep in mind that you need to use only GitHub stored files."
   }
 ]
