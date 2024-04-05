@@ -284,6 +284,6 @@
     "github": "https://github.com/levanydze/inpts",
     "projectWeb": "https://inpts.vercel.app",
     "gitIcon": "https://github.com/levanydze/portfoliosupport/blob/main/git.png?raw=true",
-    "detDescription": ""I developed a user-friendly Next.js app connected to vuvuleo.com. It's open to everyone - simply sign in with your Google email to creatively add, update, or enable/disable menu items. Exploring this app is engaging; just ensure you use GitHub for your image URLs. After you make any edits or additions, the menu on vuvuleo.com updates within a maximum of 5 minutes (revalidation time). It's an interactive way to contribute to the menu, so feel free to give it a try!""
+    "detDescription": "I developed a user-friendly Next.js app connected to vuvuleo.com. It's open to everyone - simply sign in with your Google email to creatively add, update, or enable/disable menu items. Exploring this app is engaging; just ensure you use GitHub for your image URLs. After you make any edits or additions, the menu on vuvuleo.com updates within a maximum of 5 minutes (revalidation time). It's an interactive way to contribute to the menu, so feel free to give it a try!"
   }
 ]
