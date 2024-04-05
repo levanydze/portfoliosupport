@@ -258,7 +258,7 @@
     "github": "https://github.com/levanydze/constr",
     "projectWeb": "https://vuvuleo.com",
     "gitIcon": "https://github.com/levanydze/portfoliosupport/blob/main/git.png?raw=true",
-    "detDescription": "update: the app is connected to dashboard, in this app I am fetching menu using Nextjs SSR (Server Side Rendering), realtime data from firebase and any change you (can) make at inpts.vercel.app will affect to this webpage, it might take little while but I am working on instant revalidation. end of update!   I started to use TypeScript in this project and found it pretty easy to convert my JSX components into TSX. This sped up the web building process. While reusing components, I felt that I was writing reusable code well, and I even improved it. Now, it's almost like copy-pasting. I also want to mention that using Next.js docs became clearer and easier to follow. In terms of SEO, I have implemented dynamic and static titles in the project, so when you click each item, you get a (metadata) title based on the food name. So far, this project is not a specific webpage but more like my own reusable library with different headers, navigations, and more. I will decide how it should look later on."
+    "detDescription": "update: The app is connected to dashboard, in this app you can see fetching menu using NextJs SSR, realtime data from firebase and any change you (can) make at inpts.vercel.app  will affect to this webpage, within 5 minutes (revalidation time).  I started to use TypeScript in this project and found it pretty easy to convert my JSX components into TSX. This sped up the web building process. While reusing components, I felt that I was writing reusable code well, and I even improved it. Now, it's almost like copy-pasting. I also want to mention that using Next.js docs became clearer and easier to follow. In terms of SEO, I have implemented dynamic and static titles in the project, so when you click each item, you get a (metadata) title based on the food name. So far, this project is not a specific webpage but more like my own reusable library with different headers, navigations, and more. I will decide how it should look later on."
   }
 ,
   {
@@ -284,6 +284,6 @@
     "github": "https://github.com/levanydze/inpts",
     "projectWeb": "https://inpts.vercel.app",
     "gitIcon": "https://github.com/levanydze/portfoliosupport/blob/main/git.png?raw=true",
-    "detDescription": "App is connected to vuvuleo.com  and it is open for everyone if you sign in with google email, you can create new product, update, disable/enable. It is fun to try out, just keep in mind that you need to use only GitHub stored image URLs. after editing or adding any menu items it will take a while to update the menu in vuvuleo.com and right now I am working on instant  revalidation "
+    "detDescription": ""I developed a user-friendly Next.js app connected to vuvuleo.com. It's open to everyone - simply sign in with your Google email to creatively add, update, or enable/disable menu items. Exploring this app is engaging; just ensure you use GitHub for your image URLs. After you make any edits or additions, the menu on vuvuleo.com updates within a maximum of 5 minutes (revalidation time). It's an interactive way to contribute to the menu, so feel free to give it a try!""
   }
 ]
